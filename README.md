@@ -9,6 +9,8 @@ https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensiona
 
 
 **Solution**:
-![image](https://user-images.githubusercontent.com/42793632/115361422-32154b00-a1de-11eb-9bf2-1144c73e8174.png)
+
+
+
 
 
