@@ -25,7 +25,7 @@ result=0
 pos=0
 
 while pos < (n-1):
-   if  pos+2 >=n or c[pos+2] == 1:
+   if     c[pos+2] == 1 or pos+2 >=n     :  # if c[pos+2] added in front of pos >2 error
          pos=pos+1
          result=result+1
    else:
